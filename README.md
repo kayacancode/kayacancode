@@ -1,6 +1,6 @@
 # Hi <img src="wave.gif" width="20" height="20">, Im Kaya Jones
 
-## A passionate Developer 🚀
+<p style=" text-align:center " >A passionate Developer 🚀</p>
 
 A little bit about me:
 
@@ -12,13 +12,13 @@ A little bit about me:
 
 ## Languages and Tools:
 
-<img src="javascript.png" width="20" height="20" style="display:flex">
-<img src="git.png" width="20" height="20" style="display:flex">
-<img src="python.png" width="20" height="20" style="display:flex">
-<img src="firebase.png" width="20" height="20" style="display:flex">
-<img src="bootstrap.svg" width="20" height="20" style="display:flex">
-<img src="mongodb.svg" width="20" height="20" style="display:flex">
-<img src="solidity.svg" width="20" height="20" style="display:flex">
+<img src="javascript.png" width="20" height="20" style="display:inline-block">
+<img src="git.png" width="20" height="20" style="display:display:inline-block">
+<img src="python.png" width="20" height="20" style="display:inline-block">
+<img src="firebase.png" width="20" height="20" style="display:inline-block">
+<img src="bootstrap.svg" width="20" height="20" style="display:inline-block">
+<img src="mongodb.svg" width="20" height="20" style="display:inline-block">
+<img src="solidity.svg" width="20" height="20" style="display:inline-block">
 
 ## 📈 My GitHub Stats
 

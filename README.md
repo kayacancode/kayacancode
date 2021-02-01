@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hi <img src="wave.gif" width="20" height="20">, Im Kaya Jones
 
-<!--
-**kayacancode/kayacancode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## A passionate Developer 🚀
 
-Here are some ideas to get you started:
+A little bit about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on something amazing I guess 😉
+- 🌱 I’m currently learning React
+- 📚 I'm reading The Intelligent Investor by Benjamin Graham
+- 💡 Interested in AR/VR Dev
+- 📫 How to reach me: kayacancode.com
+
+## Languages and Tools:
+
+<img src="javascript.png" width="20" height="20">
+<img src="git.png" width="20" height="20">
+<img src="python.png" width="20" height="20">
+<img src="firebase.png" width="20" height="20">
+<img src="bootstrap.svg" width="20" height="20">
+<img src="mongodb.svg" width="20" height="20">
+
+## 📈 My GitHub Stats
+
+[![Kayas's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayacancode&show_icons=true&theme=radical)](https://github.com/kayacancode/github-readme-stats)
+
+## Have some time? Check Out my Medium Articles
+
+[![Kaya  Jones Medium](https://github-readme-medium.vercel.app/?username=kayacancode)](https://medium.com/@kayacancode)

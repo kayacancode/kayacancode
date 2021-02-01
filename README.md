@@ -12,12 +12,13 @@ A little bit about me:
 
 ## Languages and Tools:
 
-<img src="javascript.png" width="20" height="20">
-<img src="git.png" width="20" height="20">
-<img src="python.png" width="20" height="20">
-<img src="firebase.png" width="20" height="20">
-<img src="bootstrap.svg" width="20" height="20">
-<img src="mongodb.svg" width="20" height="20">
+<img src="javascript.png" width="20" height="20" style="display:flex">
+<img src="git.png" width="20" height="20" style="display:flex">
+<img src="python.png" width="20" height="20" style="display:flex">
+<img src="firebase.png" width="20" height="20" style="display:flex">
+<img src="bootstrap.svg" width="20" height="20" style="display:flex">
+<img src="mongodb.svg" width="20" height="20" style="display:flex">
+<img src="solidity.svg" width="20" height="20" style="display:flex">
 
 ## 📈 My GitHub Stats
 

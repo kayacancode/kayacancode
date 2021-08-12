@@ -5,9 +5,6 @@
 A little bit about me:
 
 - 🔭 I’m currently working on something amazing I guess 😉
-- 🌱 I’m currently learning React
-- 📚 I'm reading The Intelligent Investor by Benjamin Graham
-- 💡 Interested in AR/VR Dev
 - 📫 How to reach me: kayacancode.com
 
 ## Languages and Tools:

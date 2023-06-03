@@ -4,7 +4,7 @@
 
 A little bit about me:
 
-- 🔭 I’m currently a sophmore majoring in Computer Science and minoring in Human Centered Design. 
+- 🔭 I’m currently a junior majoring in Computer Science and minoring in Human Centered Design. 
 - 📫 How to reach me: kayacancode.com
 
 ## Languages and Tools:

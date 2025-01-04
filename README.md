@@ -4,7 +4,7 @@
 
 A little bit about me:
 
-- 🔭 I’m currently a junior majoring in Computer Science and minoring in Human Centered Design. 
+- 🔭 I’m currently a senior majoring in Computer Science at Illinois Tech. 
 - 📫 How to reach me: kayacancode.com
 
 ## Languages and Tools:

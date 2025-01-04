@@ -16,6 +16,9 @@ A little bit about me:
 - Python
 - MongoDB
 - HuggingFace (NLP)
+- Google Cloud Platform
+- Postgresql
+- Java
 
 
 ## 📈 My GitHub Stats

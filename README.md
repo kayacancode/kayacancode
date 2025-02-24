@@ -19,9 +19,7 @@ A little bit about me:
 - Google Cloud Platform
 - Postgresql
 - Java
-
-
-## 📈 My GitHub Stats
-
-[![Kayas's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayacancode&show_icons=true&theme=radical)](https://github.com/kayacancode/github-readme-stats)
-
+- TypeScript
+- AI Development
+- API Development
+- Pinecone
